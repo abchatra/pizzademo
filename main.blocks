@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="[QL!knEte@?TxcZH8Kl:">mySprite</variable></variables><block type="pxt-on-start" id="Mat6wojCC8yoQM|/I^;j" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="C,{#)-c3z~xb%#OI!F}N"><value name="color"><shadow type="colorindexpicker" id="=ZC4NktmpBOLpv`L^Xqg"><field name="index">3</field></shadow></value><next><block type="variables_set" id="dB2J*XvP3i+,d6;Qhu:%"><field name="VAR" id="[QL!knEte@?TxcZH8Kl:">mySprite</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="|ZHXSe{t80koA=bT%.Hz"><value name="img"><shadow type="screen_image_picker" id="/az_b%o+vOhkoEJDEHMU"><field name="img">img`
+. . . . . . b b b b . . . . . . 
+. . . . . . b 4 4 4 b . . . . . 
+. . . . . . b b 4 4 4 b . . . . 
+. . . . . b 4 b b b 4 4 b . . . 
+. . . . b d 5 5 5 4 b 4 4 b . . 
+. . . . b 3 2 3 5 5 4 e 4 4 b . 
+. . . b d 2 2 2 5 7 5 4 e 4 4 e 
+. . . b 5 3 2 3 5 5 5 5 e e e e 
+. . b d 7 5 5 5 3 2 3 5 5 e e e 
+. . b 5 5 5 5 5 2 2 2 5 5 d e e 
+. b 3 2 3 5 7 5 3 2 3 5 d d e 4 
+. b 2 2 2 5 5 5 5 5 5 d d e 4 . 
+b d 3 2 d 5 5 5 d d d 4 4 . . . 
+b 5 5 5 5 d d 4 4 4 4 . . . . . 
+4 d d d 4 4 4 . . . . . . . . . 
+4 4 4 4 . . . . . . . . . . . . 
+`</field></shadow></value><value name="kind"><shadow type="spritekind"/><block type="math_number" id="MHtHsr5sAIvn#4~6--jk"><field name="NUM">0</field></block></value></block></value></block></next></block></statement></block></xml>
